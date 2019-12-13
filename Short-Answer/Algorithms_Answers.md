@@ -42,6 +42,6 @@ def break(n):
                 f+=1
     return f
 
-    I would say that my solution is  O(log n) because it keeps spliting n in half until it finds where it doesn't break.
+    I would say that my solution is  O(log n) because it keeps spliting n in half until it finds where it doesn't break. It's sort of like a binary search.
 
 
