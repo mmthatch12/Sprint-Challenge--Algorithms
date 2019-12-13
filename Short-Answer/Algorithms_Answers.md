@@ -27,4 +27,21 @@ c) def bunnyEars(bunnies):
 
 ## Exercise II
 
+def break(n):
+    mid  = devide n by 2
+    throw = True
+    f = mid
+    while throw:
+        if egg breaks at level f:
+            split mid by 2 and reset mid to mid/2
+        else if egg doesn't break:
+            g = f+1
+            if at f egg doesn't break and at g does break:
+                throw = False
+            else:
+                f+=1
+    return f
+
+    I would say that my solution is  O(log n) because it keeps spliting n in half until it finds where it doesn't break.
+
 
